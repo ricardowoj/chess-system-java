@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chess-system.iml" filepath="$PROJECT_DIR$/chess-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../damas-system-java/damas-system-java.iml" filepath="$PROJECT_DIR$/../damas-system-java/damas-system-java.iml" />
     </modules>
   </component>
 </project>
